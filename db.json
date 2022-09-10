@@ -1,0 +1,41 @@
+{
+    
+        "users":[
+            {
+                "id":"1",
+                "fristName": "Arif",
+                "lastName":"Almas",
+                "email": "arif@gmail.com",
+                "age":"17"
+            },
+            {
+                "id":"1",
+                "fristName": "Saif",
+                "lastName":"Islam",
+                "email": "saif@gmail.com",
+                "age":"17"
+            },
+            {
+                "id":"1",
+                "fristName": "Asif",
+                "lastName":"Khan",
+                "email": "asif@gmail.com",
+                "age":"17"
+            }
+        ],
+        "company":[
+        
+            {
+                "id":"1",
+                "name": "Apple"
+            },
+            {
+                "id":"2",
+                "name": "google"
+            },
+            {
+                "id":"3",
+                "name": "Microsoft"
+            }
+        ]
+}
